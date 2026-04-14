@@ -1,4 +1,4 @@
-# Musico---a-Music-Streaming-Web-App 
+# Musico - a-Music-Streaming-Web-App 
 
 Link 🔗: https://musico-frontend-87lh.onrender.com/
 
